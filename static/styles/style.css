@@ -1,0 +1,59 @@
+body{
+    background-color: #121212;
+    font-family: Arial, sans-serif;
+}
+  
+h1, h2{
+    color: white;
+    text-align: center;
+    opacity: 0.87;
+    font-family: Arial, sans-serif;
+}
+  
+p{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    opacity: 0.87;
+}
+
+li{
+    color: white;
+    font-size: 18px;
+    opacity: 0.87;
+}
+
+ul{
+    display: table;
+    margin: auto;
+}
+
+img{
+    display: block;
+    border: 2px solid #555;
+    margin: auto;
+    width:100%;
+    max-width:500px;
+}
+
+.info{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    opacity: 0.87;
+}
+
+input[type = file]{
+    border: 1px solid #121212;
+    color: white;
+    padding-left: 80px;
+}
+
+.important{
+    color:red;
+}
+
+#discl{
+    color: red;
+    font-weight: bold;
+}
